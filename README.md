@@ -1,1 +1,1 @@
-# RepositorioHenry
+Homework de prueba módulo 02.
